@@ -1,0 +1,4 @@
+﻿1>------ Сборка начата: проект: Rucksac, Конфигурация: Debug Win32 ------
+1>ASY.cpp
+1>ASY.vcxproj -> C:\Users\Evil Spirit\source\repos\ASY\Debug\Rucksac.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
